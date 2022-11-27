@@ -8,7 +8,7 @@
 #
 # featured image is used in home page banner and in meta markup to represent the collection
 # use either an objectid (from an item in this collect), a relative location of an image in this repo (ex. /assets/img/feature.jpg), or a full url to an image elsewhere
-featured-image: https://scontent-atl3-1.xx.fbcdn.net/v/t31.18172-8/479038_506277506067220_914460613_o.jpg?_nc_cat=101&ccb=1-7&_nc_sid=e3f864&_nc_ohc=9B32EqDEwSkAX-Lo5-e&_nc_ht=scontent-atl3-1.xx&oh=00_AfACDcxfwhjBu9kr6k85eAIvLfIX1bWepU0SiyMrghmJRw&oe=63AAF6C2
+featured-image: /objects/house.jpg
 # optional: add extra padding around collection title for a larger image feature. 
 home-title-y-padding: 10em # Default is 8em
 # optional: change position of background image, center, top, bottom
