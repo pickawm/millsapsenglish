@@ -8,7 +8,7 @@
 #
 # featured image is used in home page banner and in meta markup to represent the collection
 # use either an objectid (from an item in this collect), a relative location of an image in this repo (ex. /assets/img/feature.jpg), or a full url to an image elsewhere
-featured-image: demo_001
+featured-image: https://scontent-atl3-1.xx.fbcdn.net/v/t31.18172-8/479038_506277506067220_914460613_o.jpg?_nc_cat=101&ccb=1-7&_nc_sid=e3f864&_nc_ohc=9B32EqDEwSkAX-Lo5-e&_nc_ht=scontent-atl3-1.xx&oh=00_AfACDcxfwhjBu9kr6k85eAIvLfIX1bWepU0SiyMrghmJRw&oe=63AAF6C2
 # optional: add extra padding around collection title for a larger image feature. 
 home-title-y-padding: 10em # Default is 8em
 # optional: change position of background image, center, top, bottom
@@ -23,8 +23,8 @@ browse-buttons: true # true/false, adds previous/next arrows to item pages
 ##########
 # SUBJECTS PAGE
 #
-subjects-fields: subject;creator # set the field to be featured in the cloud (if left blank, none will be generated)
-subjects-min: 1 # min size for subject cloud, too many terms = slow load time!
+subjects-fields: subject # set the field to be featured in the cloud (if left blank, none will be generated)
+subjects-min: 3 # min size for subject cloud, too many terms = slow load time!
 subjects-stopwords: # boxers;boxing;boxer # set of subjects separated by ;, e.g. boxers;boxing
 
 ##########
@@ -38,8 +38,8 @@ locations-stopwords: # set of subjects separated by ; that will be removed from 
 # MAP PAGE
 #
 # see _data/map-config.csv for field display options
-latitude: 46.727485 #to determine center of map
-longitude: -117.014185 #to determine center of map
+latitude: 32.297876 #to determine center of map
+longitude: -90.183221 #to determine center of map
 zoom-level: 7 # zoom level for map 
 map-base: Esri_WorldStreetMap # set default base map, choose from: Esri_WorldStreetMap, Esri_NatGeoWorldMap, Esri_WorldImagery
 map-search: true # true/false, not suggested with large collections
