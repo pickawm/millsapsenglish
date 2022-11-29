@@ -1,8 +1,8 @@
 field,display_name,browse_link,external_link
 name,Name,
 degree,Degree,
-date,Date Created,
-description,Description,
+date,Date of Graduation,
+description,Title,
 subject,Subjects,true
 location,Location
 latitude,Latitude
