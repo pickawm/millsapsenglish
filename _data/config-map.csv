@@ -1,5 +1,5 @@
-name,Name,true
+field,display_name,search
+description,Title,true
 date,Date,true
-creator,Creator,true
 subject,Subjects,true
 location,Location,true

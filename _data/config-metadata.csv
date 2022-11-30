@@ -2,6 +2,7 @@ field,display_name,browse_link,external_link
 name,Name,
 degree,Degree,
 date,Date of Graduation,
+title,Title
 description,Title,
 subject,Subjects,true
 location,Location
